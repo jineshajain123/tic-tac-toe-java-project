@@ -6,8 +6,11 @@ If the grid is filled and no player has three marks in a row, the game results i
 Features-
 
 ->Two-player game (Player X and Player O)
+
 ->Command-line interface for input and display
+
 ->Simple game logic to detect win, loss, or draw
+
 ->Error handling for invalid inputs and occupied spaces
 
 
