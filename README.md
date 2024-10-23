@@ -9,7 +9,7 @@ Features-
 
 ->Command-line interface for input and display
 
-->Simple game logic to detect win, loss, or draw
+->Simple game logic to detect win,loss,or draw
 
 ->Error handling for invalid inputs and occupied spaces
 
