@@ -9,8 +9,9 @@ Features-
 ->Simple game logic to detect win, loss, or draw
 ->Error handling for invalid inputs and occupied spaces
 
+
 Team members-
-karnika singh
-daksh goyal
-jinesha jain
-jayash mehra
+karnika singh,
+daksh goyal,
+jinesha jain,
+jayash mehra.
